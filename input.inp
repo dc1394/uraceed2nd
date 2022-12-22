@@ -1,0 +1,9 @@
+#
+# Parameters for solving 1D-differential equations
+#
+
+grid.x1                     0.0             # x1の数値（default = 0.0）
+grid.x2                     1.0             # x2の数値（default = 1.0）
+grid.num                    100             # 分割数（default = 10）
+f1                          0.0             # f(x1)の数値（default = 0.0）
+f2                          0.0             # f(x2)の数値（default = 1.0）
